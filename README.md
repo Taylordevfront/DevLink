@@ -19,11 +19,11 @@ Primeiro projeto desenvolvido através do Programa exclusivo e gratuito promovid
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/Devlinks1.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/Devlinks1.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/Devlinks2.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/Devlinks2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
